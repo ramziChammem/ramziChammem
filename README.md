@@ -1,7 +1,5 @@
 Here is what I am working on!👋
 
-<!--
-**ramziChammem/ramziChammem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... ramzichammem69@gmail.com
 - 😄 Pronouns: ... He/Him 
 - ⚡ Fun fact: ... I am a software developer that does not wear glasses 🤓 
--->
+
