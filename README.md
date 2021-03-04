@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything you feel comfortable to ask about 😉
 - 📫 How to reach me: ... ramzichammem69@gmail.com
 - 😄 Pronouns: ... He/Him 
-- ⚡ Fun fact: ... I am a software developer that does not wear glasses 🤓
+- ⚡ Fun fact: ... I am a software developer that does not wear glasses 🤓 
 -->
